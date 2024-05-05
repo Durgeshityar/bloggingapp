@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "tsc-init": "^2.1.0",
+    "zod": "^3.22.4"
+  },
+  "name": "@durgeshityaar/medium-common2",
+  "version": "1.0.0",
+  "main": "dist/inputs.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
